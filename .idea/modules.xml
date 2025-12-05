@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Koch Snowflake Fractal Simulation.iml" filepath="$PROJECT_DIR$/Koch Snowflake Fractal Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koch-snowflake.iml" filepath="$PROJECT_DIR$/koch-snowflake.iml" />
     </modules>
   </component>
 </project>
